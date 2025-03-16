@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @ScytheMediaTheDev
-- 👀 I’m interested in Full time game server hosting!
-- 🌱 I’m currently learning the coding language Lua!
-- 💞️ I’m looking to collaborate on Skript developing.
-- 📫 You can reach me on discord! User @ScytheMedia
-- 😄 Pronouns: he/him/they/walmart bag
-- ⚡ Fun fact: I have parents that are divorced.
+# About Me
+**Hey there! This is my github profile. My current projects are as follows:**
 
-<!---
-ScytheMediaTheDev/ScytheMediaTheDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- NODE-1
+- PotatoEssentials
+- PotatoEvents
+- Wrapped Network
